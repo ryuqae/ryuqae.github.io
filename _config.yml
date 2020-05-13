@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Jeongwoo's Blog
+description:    "Something that I can tell you about"
 url:            "https://ryuqae.github.io"
 
 # Google Analytics
@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Jeongwoo
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        ryuqae@gmail.com
 
 # Build settings
 markdown:       kramdown
