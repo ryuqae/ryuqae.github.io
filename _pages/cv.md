@@ -2,7 +2,7 @@
 layout: post
 title: "Curriculum Vitae"
 author: "Jeongwoo"
-permalink: /cv
+permalink: /cv/
 ---
 
 
