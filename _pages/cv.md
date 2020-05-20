@@ -44,6 +44,6 @@ permalink: /cv/
 # PUBLICATIONS
 * * *
   
-[1] Lee, D., Hyun, W., `Ryu, J.`, Lee, W. J., Rhee, W., & Suh, B. (2015, February). An Analysis of Social Features Associated with Room Sales of Airbnb. In *Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work \& Social Computing* (pp. 219-222). ACM.
+1.  Lee, D., Hyun, W., **`Ryu, J.`**, Lee, W. J., Rhee, W., & Suh, B. (2015, February). An Analysis of Social Features Associated with Room Sales of Airbnb. In *Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work & Social Computing* (pp. 219-222). ACM.
 
-[2] `Ryu, J.`, Kim, Y., & Suh, B. (2014, December). Research on browsing experience of smartphone applications. In *Proceedings of HCI Korea* (pp. 363-370).
+2. **`Ryu, J.`**, Kim, Y., & Suh, B. (2014, December). Research on browsing experience of smartphone applications. In *Proceedings of HCI Korea* (pp. 363-370).
