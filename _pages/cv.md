@@ -5,9 +5,7 @@ author: "Jeongwoo"
 permalink: /cv/
 ---
 
-
-![Image with caption](/assets/Profile.jpg "COVID-19 is Dangerous!")
-
+<!-- ![Image with caption](/assets/Profile.jpg "COVID-19 is Dangerous!") -->
 
 # EDUCATION
 * * *
