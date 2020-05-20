@@ -4,7 +4,7 @@ description:    "Something that I can tell you about"
 url:            "https://ryuqae.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-167194489-1
 
 # Author
 author:
@@ -31,7 +31,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       10
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
