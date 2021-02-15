@@ -1,6 +1,6 @@
 ---
 layout : post
-title : It's October!
+title : Dictionary의 'Get' 메소드 사용!
 author : Jeongwoo
 use_math : true
 comments : true
@@ -23,4 +23,3 @@ sorted(sample_dict.items(), key=lambda x:x[1], reverse=True)
 ```
 `inline code`는 이렇게 작성
 ---
-
