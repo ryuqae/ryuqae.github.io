@@ -3,7 +3,7 @@ layout : post
 title : MathJax Sample Post
 author : Jeongwoo
 use_math : true
-comments : true
+comments : false
 ---
 
 *수식은 이렇게*
@@ -21,7 +21,7 @@ class Triangle:
     def __init__(self, height, width):
         self.height = height
         self.width = width
-    
+
     def calculateDistance(self.height, self.width):
         return math.sqrt(self.height**2 + self.width**2)
 
